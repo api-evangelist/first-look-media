@@ -1,0 +1,52 @@
+{
+    "name": "First Look Media",
+    "description": "A bold, independent spirit defines everything we do at First Look Media ??? from journalism that holds the powerful accountable, to arts & entertainment that shapes our culture.  Launched by eBay founder and philanthropist Pierre Omidyar, First Look Medi...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18721-the-intercept.jpg",
+    "tags": [
+        "have api",
+        "news"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/first-look-media\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "First Look Media",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18721-the-intercept.jpg",
+            "humanURL": "https:\/\/firstlook.org\/theintercept\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/first-look-media-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/firstlook.org\/theintercept\/unofficial-sources\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/firstlook.org\/theintercept\/feeds\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/first-look-media"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/firstlookmedia"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/firstlook.org\/theintercept\/"
+        }
+    ]
+}
